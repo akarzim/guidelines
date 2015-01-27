@@ -98,7 +98,7 @@ function getProp(prop) {
 
 ### Commas ###
 
-Use trailing commas to separate keys, paramaters, etc. Don't add a trailing comma at the end of the list:
+Use trailing commas to separate keys, parameters, etc. Don't add a trailing comma at the end of the list:
 
 ```javascript
 var story = [
@@ -298,9 +298,9 @@ function toFormat(format) {
 
 Try to write self-documenting code as much as possible.
 
-Avoid writing comments to explain bad code. If an explaination is needed then the code probably needs a refactor to become self-explanatory.
+Avoid writing comments to explain bad code. If an explanation is needed then the code probably needs a refactor to become self-explanatory.
 
-- use /** ... */ for multiline comments
+- use /** ... */ for multi-line comments
 - use // for single line comments
 
 ### Annotations ###
