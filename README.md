@@ -280,6 +280,8 @@ $(this).on('newMessage', function(e, data) {
 
 Use [JSDoc](http://usejsdoc.org). It's an API documentation generation tool for Javascript which is customizable using templates.
 
+You should only document your re-useable libraries and classes.
+
 Example:
 
 ```javascript
